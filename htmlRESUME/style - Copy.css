@@ -1,0 +1,54 @@
+ 
+ 
+ body
+ {
+    background-color: lightcyan;
+    border: solid 2px;
+    font-style:normal;
+    font-size:large;
+ }
+ .container
+ {
+    color: rgb(130, 9, 9);
+    font-style: italic;
+ }
+ .name
+ {
+    color: rgb(130, 9, 9);
+ }
+ .head
+ {
+    color:rgb(33, 33, 112);
+    text-shadow: #c25128;
+    font-style: italic ;
+ }
+ .link
+ {
+    color:blue;
+  
+ }
+ .form
+ {
+    color:#075c5b;
+    font-style: normal;
+ }
+ .table
+{
+    background:#075c5b;
+    font-style: normal;
+    color:white;
+    border-color:lightcyan ;
+}
+.p
+{
+    
+    font-style:oblique;
+    color:rgb(130, 9, 9);
+    font-weight:bolder ;
+}
+.language
+{
+    font-style:normal;
+    color:#075c5b;
+    
+}
